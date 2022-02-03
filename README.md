@@ -1,5 +1,8 @@
-# AbstractWallpapers
+<h1 align="center"> AbstractWallpapers </h1>
+
 ![Wallpapers](https://i.imgur.com/jZbMI4l.png)
-Wallpapers mixed with javascript to create digital-clocks | Made for Wallpaper Engine
+
+<h2 align="center">Wallpapers mixed with javascript to create digital-clocks | Made for Wallpaper Engine </h2>
+
 
 
