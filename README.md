@@ -1,7 +1,7 @@
 <h2 align="center"> AbstractWallpapers </h2>
 
-<p align="center">This is my collection of wallpapers i made for Wallpaper Engine
-It's built to be an HTML file with interactive functions made in JavaScript and style the functionality with CSS
+<p align="center">This is my collection of wallpapers i made for Wallpaper Engine <br>
+It's built to be an HTML file with interactive functions made in JavaScript and style the functionality with CSS <br>
 The wallpaper's have a clock built-in, telling the current time and date, in a way that is on the center of the user's screen and quite visible, with a great look to it too! <hr></h4>
 
 
