@@ -1,0 +1,17 @@
+body {
+    background-image: url('assets/asset.png');
+    overflow: hidden;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital,wght@1,400;1,700&family=Source+Sans+Pro:wght@200&family=Space+Mono:ital@1&display=swap');
+
+h1 {font-family: 'Balsamiq Sans', cursive;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Space Mono', monospace;
+    font-size: 2.5em;
+}
+div#app{
+    text-align: center;
+    align-self: center;
+    margin-top: 40%;
+}
