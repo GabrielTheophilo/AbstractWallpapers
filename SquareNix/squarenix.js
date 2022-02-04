@@ -1,5 +1,5 @@
 window.addEventListener('load', function(){
-    const diaDaSemana = [
+    const dayOfWeek = [
         'Sunday',
         'Monday',
         'Tuesday',
@@ -8,7 +8,7 @@ window.addEventListener('load', function(){
         'Friday',
         'Saturday'
     ]
-    const Mes = [
+    const Month = [
         'January',
         'February',
         'March',
@@ -42,6 +42,6 @@ window.addEventListener('load', function(){
         return (hours < 10 ? "0" +hours : hours) + ':' + (minutes < 10 ? "0" + minutes : minutes)+ ':' + (seconds < 10 ? "0" + seconds : seconds);
     }
     function getDate(dateTime){
-        return diaDaSemana[dateTime.getDay()] + " - " + Mes[dateTime.getMonth()]  + "  " + dateTime.getDate();
+        return dayOfWeek[dateTime.getDay()] + " - " + Month[dateTime.getMonth()]  + "  " + dateTime.getDate();
     }
 })
