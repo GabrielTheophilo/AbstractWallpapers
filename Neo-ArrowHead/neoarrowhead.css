@@ -1,0 +1,23 @@
+body {
+    background-image: url('assets/arrowhead.png');
+    overflow: hidden;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@1,700&display=swap');
+
+h1 {font-family: 'Space Mono', monospace;
+    font-size: 2.5em;
+    font-size: 3.275em;
+    color: rgb(59, 0, 98);
+    
+}
+h1#date{
+    font-family: 'Space Mono', monospace;
+    font-size: 3.275em;
+    color: rgb(193, 169, 200);
+}
+div#app{
+    text-align: center;
+    align-self: center;
+    margin-top: 24%;
+}
