@@ -11,16 +11,24 @@ body {
     
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@1,700&display=swap');
+@font-face {
+    font-family: 'Open24';
+    src: url('assets/Open.woff');
+    font-weight: normal;
+    font-style: normal;
+    
 
-h1 {font-family: 'Space Mono', monospace;
+}
+
+h1 {font-family: 'Open24', monospace;
     font-size: 2.5em;
     font-size: 3.275em;
     color: #9a88ff;
+    letter-spacing: 0.2em;
     
 }
 h1#date{
-    font-family: 'Space Mono', monospace;
+    font-family: 'Open24', monospace;
     font-size: 3.275em;
     color: #9a88ff;
     z-index: 1;
@@ -28,6 +36,6 @@ h1#date{
 div#app{
     text-align: center;
     align-self: center;
-    margin-top: -40%;
+    margin-top: -37%;
     z-index: 1;
 }
