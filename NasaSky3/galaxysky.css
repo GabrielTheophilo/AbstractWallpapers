@@ -16,6 +16,7 @@ body {
     overflow: hidden;
     position: absolute;
     z-index: -2;
+    filter: saturate(300%);
 }
 #sky {
     
@@ -23,11 +24,11 @@ body {
     height: 25%;
     top: 275px;
     left: 100px;
-    filter: drop-shadow(15px 11px 41px #737373);
+    filter: saturate(150%);
     overflow: hidden;
     position: relative;
     z-index: -1;
-    animation: rollOver 45s ease 0s infinite normal none;
+    animation: rollOver 90s ease 0s infinite normal none;
 }
 
 @keyframes rollOver {
@@ -35,7 +36,7 @@ body {
             transform: scale(1) translate(-100px, 0) skew(0deg);
         }
         100%{
-            transform: scale(1) translate(-100px, 0) skew(0deg) rotate(360deg);
+            transform: scale(1) translate(-100px, 0) skew(0deg) rotate(720deg);
         }
     }
     
@@ -66,6 +67,7 @@ h1#date{
     font-size: 3.275em;
     color: #9a88ff;
     margin-top: 57%;
+    text-shadow: 9px -5px 72px #8726c7;
     
     
 }
@@ -73,6 +75,6 @@ div#app{
     text-align: center;
     align-self: center;
     margin-top: -37%;
-    
+    text-shadow: 9px -5px 72px #8726c7;
     
 }
