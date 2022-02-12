@@ -1,3 +1,5 @@
-Neo-Abstract Wallpaper
+<h2 align="center">Neo-Abstract Wallpaper</h1>
 
-![NeoAbstract](https://i.imgur.com/E4a1DrA.png)
+<div align="center">
+<img src="https://i.imgur.com/E4a1DrA.png" width="780px" height="420px"/>
+  </div>
