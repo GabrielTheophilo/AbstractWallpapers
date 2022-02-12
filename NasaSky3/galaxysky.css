@@ -23,6 +23,7 @@ body {
     height: 25%;
     top: 275px;
     left: 100px;
+    filter: drop-shadow(15px 11px 41px #737373);
     overflow: hidden;
     position: relative;
     z-index: -1;
