@@ -19,7 +19,7 @@ The wallpaper's have a clock built-in, telling the current time and date, in a w
 
 <div align="center">
   <a href="https://github.com/GabrielTheophilo/AbstractWallpapers/tree/main/Clock"><img src="https://i.imgur.com/ShcqURE.png" width="420px" height="220px"/></a>
-  <a href=""><img src="https://i.imgur.com/yc3PoSv.png" width="420px" height="220px"/></a>
+  <a href="https://github.com/GabrielTheophilo/AbstractWallpapers/tree/main/NasaSky3"><img src="https://i.imgur.com/yc3PoSv.png" width="420px" height="220px"/></a>
   <a href="https://github.com/GabrielTheophilo/AbstractWallpapers/tree/main/SquareNix"><img src="https://i.imgur.com/Rnc7SU1.png" width="420" height="220"/></a>
   <a href="https://github.com/GabrielTheophilo/AbstractWallpapers/tree/main/Neo-ArrowHead"><img src="https://i.imgur.com/qPv89oC.png" width="420" height="220"/></a>
   <a href="https://github.com/GabrielTheophilo/AbstractWallpapers/tree/main/ArrowHead"><img src="https://i.imgur.com/E4a1DrA.png" width="420" height="220"/></a>
