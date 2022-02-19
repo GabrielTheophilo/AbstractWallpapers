@@ -10,9 +10,25 @@ body {
     align-items: center;
     min-height: 100vh;
     background: #FFF5E6;
+    background: linear-gradient(#bb904b50 55%, #9198e5);
 
 }
+.card {
+	/* other styles */
 
+width: 800px;
+height: 700px;
+padding-top: 90px;
+
+display: flex;
+justify-content: center;
+background: linear-gradient(#d7daf149,#e291913d);
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 40px );
+-webkit-backdrop-filter: blur( 40px );
+border-radius: 15px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
 .clock {
     width: 550px;
     height: 550px;
@@ -72,11 +88,11 @@ body {
 .hr:before {
     content: '';
     position: absolute;
-    width: 5px;
+    width: 3px;
     height: 80px;
-    background: #CAC198;
+    background: #d86167;
     z-index: 10;
-    border-radius: 6px 6px 0 0;
+    border-radius: 8px 8px 0 0;
 }
 
 .mn:before {
@@ -95,7 +111,7 @@ body {
     position: absolute;
     width: 4px;
     height: 120px;
-    background: #d86167;
+    background: #CAC198;
     z-index: 11;
     border-radius: 6px 6px 0 0;
 }
